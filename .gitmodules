@@ -1,0 +1,9 @@
+[submodule "Xenoforge-GUI"]
+	path = Xenoforge-GUI
+	url = https://github.com/Zelos64/Xenoforge-GUI.git
+[submodule "Xenoforge-web"]
+	path = Xenoforge-web
+	url = https://github.com/Zelos64/Xenoforge-web.git
+[submodule "xbtoolGUI"]
+	path = xbtoolGUI
+	url = https://github.com/Zelos64/xbtoolGUI.git
