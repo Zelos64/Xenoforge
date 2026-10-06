@@ -7,3 +7,9 @@
 [submodule "xbtoolGUI"]
 	path = xbtoolGUI
 	url = https://github.com/Zelos64/xbtoolGUI.git
+[submodule "Xenoforge-scripts"]
+	path = Xenoforge-scripts
+	url = https://github.com/Zelos64/Xenoforge-scripts.git
+[submodule "Xenoforge-dependencies"]
+	path = Xenoforge-dependencies
+	url = https://github.com/Zelos64/Xenoforge-dependencies.git
